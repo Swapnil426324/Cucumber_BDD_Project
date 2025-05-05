@@ -29,11 +29,7 @@ And close the browser
 Examples:
       | username | password |
       | kiran@gmail.com    | 123456 |
-<<<<<<< HEAD
-      | swapnil@gmail.com     | swapnil123 |
-=======
-      | swapnil@gmail.com     | wrong123 |
->>>>>>> branch 'main' of https://github.com/Swapnil426324/Cucumber_BDD_Project.git
+      | swapnil@gmail.com  | swapnil123 |
       | guest@gmail.com    | guest123 |
       
       
